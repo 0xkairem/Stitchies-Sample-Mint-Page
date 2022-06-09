@@ -1,0 +1,39 @@
+Folder Structure:
+
+    - assets => contains all the assests such as images, audio and svg files
+    - componenets => Files/Sections used to build this portfolio
+    - Icons => contains Icons in component format
+    - GlobalStyles.js => contains global styles for whole application
+    - Themes.js => contains Color and fonts size in variables
+
+
+
+Steps to run
+
+    - Make sure to open this directory in Terminal / CMD
+    - Run npm install
+    - Run npm start
+
+
+
+External Libraries used in this project: 
+
+    - https://styled-components.com/docs/advanced
+    - https://greensock.com/gsap/
+    - https://www.npmjs.com/package/typewriter-effect
+    - https://www.npmjs.com/package/react-confetti 
+    - https://www.npmjs.com/package/react-use	
+    
+Fonts Are from:
+
+    - https://fontsource.org/    
+
+
+
+
+
+
+
+
+
+
