@@ -1,6 +1,6 @@
 # NFT Collection Mint Page
 
-## Demo
+## Demo: mint using rinkeby on live site [here](https://delightful-malabi-e9e12f.netlify.app)
 
 ![Alt Text](https://media.giphy.com/media/i5edhk3E3ZnxOUpmiv/giphy.gif)
 
