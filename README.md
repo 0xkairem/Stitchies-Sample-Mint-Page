@@ -1,4 +1,4 @@
-# NFT Collection Landing Page
+# NFT Collection Mint Page
 
 ## Demo
 
