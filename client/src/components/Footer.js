@@ -145,7 +145,7 @@ const Footer = () => {
               <Facebook />
             </a>
             <a
-              href="https://www.instagram.com/code.bucks/"
+              href="https://www.instagram.com"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="instagram"
@@ -153,7 +153,7 @@ const Footer = () => {
               <Instagram />
             </a>
             <a
-              href="https://twitter.com/code_bucks"
+              href="https://twitter.com/s0urbot"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="twitter"
@@ -161,7 +161,7 @@ const Footer = () => {
               <Twitter />
             </a>
             <a
-              href="http://linkedin.com"
+              href="https://www.linkedin.com/in/denzelbrown-/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="linkedin"

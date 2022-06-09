@@ -6,13 +6,6 @@ Collectible items.
 Ape Killers!
 
 
-About Section:
-
-- Welcome To The Weirdos Club.
-- The WEIRDOS CLUB is a private collection of NFTs—unique digital collectibles. The Weirdos are stored as ERC-721 tokens on the Ethereum blockchain and hosted on IPFS.
-- With more than 200+ hand drawn traits, each NFT is unique and comes with a membership to an exclusive group of successful investors. Join an ambitious ever-growing community with multiple benefits and utilities.
-- Join Our Discord
-
 RoadMap Section:
 
 - Grand Opening
@@ -37,7 +30,7 @@ The amount of royalties was fixed at 5% to finance the Weirdos Club's projects. 
 HOW CAN I USE MY NFT?
 You will be able to use your NFT as an avatar in the Metaverse and our future video game. Holding also means that you are part of an exclusive network of investors and entrepreneurs.
 
-WHAT ARE THE WEIRDOS?
+WHAT ARE STITCHIES?
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore deserunt consequatur quisquam maxime molestias dolores ipsum, exercitationem vel sint quidem aliquam modi quis impedit corporis unde inventore fugiat provident in.
 
 WHAT IS THE FUSION PROCESS?
